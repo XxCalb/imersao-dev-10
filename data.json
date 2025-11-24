@@ -1,0 +1,1004 @@
+[
+  {
+    "nome": "Diablo IV",
+    "descricao": "Um ARPG de hack and slash focado em combate visceral, customização de personagens e exploração sombria do Santuário, com forte elemento multiplayer.",
+    "ano": "2023",
+    "link": "https://diablo4.blizzard.com/",
+    "Preco": "Pago",
+    "tags": [
+      "Hack and Slash",
+      "ARPG",
+      "Multiplayer",
+      "Fantasia Sombria",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Path of Exile",
+    "descricao": "Um RPG de Ação isométrico conhecido por sua complexidade de customização, sistema de gemas de habilidades e vastíssima árvore de talentos.",
+    "ano": "2013",
+    "link": "https://www.pathofexile.com/",
+    "Preco": "Gratuito",
+    "tags": [
+      "Hack and Slash",
+      "Grinding",
+      "MMO Lite",
+      "Free"
+    ]
+  },
+  {
+    "nome": "Lost Ark",
+    "descricao": "Um MMORPG de Ação focado em combate cinético, chefes de raide épicos e uma perspectiva isométricas, com um forte foco em conteúdo endgame.",
+    "ano": "2019",
+    "link": "https://www.playlostark.com/",
+    "Preco": "Gratuito",
+    "tags": [
+      "MMORPG",
+      "Action Combat",
+      "Isométrico",
+      "Coreano",
+      "Free"
+    ]
+  },
+  {
+    "nome": "Elden Ring",
+    "descricao": "Um RPG de Ação de mundo aberto da FromSoftware, apresentando exploração massiva, chefes desafiadores e elementos de fantasia sombria.",
+    "ano": "2022",
+    "link": "https://en.bandainamcoent.eu/elden-ring/elden-ring",
+    "Preco": "Pago",
+    "tags": [
+      "Soulslike",
+      "Mundo Aberto",
+      "Fantasia",
+      "Single Player",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Monster Hunter World",
+    "descricao": "Jogo de caça a monstros gigantes em ecossistemas vastos. O foco é na preparação, combate estratégico e coleta de materiais para forjar novos equipamentos.",
+    "ano": "2018",
+    "link": "https://www.monsterhunter.com/world/br/",
+    "Preco": "Pago",
+    "tags": [
+      "Action RPG",
+      "Caçada",
+      "Multiplayer Cooperativo",
+      "Grinding",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "The Witcher 3: Wild Hunt",
+    "descricao": "Um RPG de mundo aberto épico onde o jogador controla Geralt de Rivia, um caçador de monstros, explorando um continente vasto cheio de escolhas morais.",
+    "ano": "2015",
+    "link": "https://thewitcher.com/br/pt/witcher3",
+    "Preco": "Pago",
+    "tags": [
+      "Mundo Aberto",
+      "Fantasia",
+      "Single Player",
+      "Narrativa Forte",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Genshin Impact",
+    "descricao": "Um RPG de ação de mundo aberto com estilo anime, conhecido por seu sistema de combate elemental, exploração vertical e modelo de gacha para personagens.",
+    "ano": "2020",
+    "link": "https://genshin.hoyoverse.com/",
+    "Preco": "Gratuito",
+    "tags": [
+      "Gacha",
+      "Mundo Aberto",
+      "Anime",
+      "Action RPG",
+      "Free"
+    ]
+  },
+  {
+    "nome": "Final Fantasy XIV",
+    "descricao": "Um MMORPG focado em história e conteúdo cooperativo, ambientado no reino de Eorzea. Permite trocar de classe livremente com o mesmo personagem.",
+    "ano": "2013 (A Realm Reborn)",
+    "link": "https://na.finalfantasyxiv.com/",
+    "Preco": "Assinatura Mensal + Jogo Base Pago",
+    "tags": [
+      "MMORPG",
+      "Fantasia",
+      "Narrativa",
+      "Subscription",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Warframe",
+    "descricao": "Um ARPG cooperativo de tiro e saque rápido, onde jogadores controlam Tenno (ninjas espaciais) usando armaduras poderosas chamadas Warframes.",
+    "ano": "2013",
+    "link": "https://www.warframe.com/",
+    "Preco": "Gratuito",
+    "tags": [
+      "Looter Shooter",
+      "Sci-Fi",
+      "Coop",
+      "Free",
+      "Action RPG"
+    ]
+  },
+  {
+    "nome": "Destiny 2",
+    "descricao": "Um 'Looter Shooter' com fortes elementos de RPG de Ação e MMO, focado em missões, raides e coleta de equipamentos exóticos.",
+    "ano": "2017",
+    "link": "https://www.bungie.net/7/pt-br/destiny/newlight",
+    "Preco": "Gratuito",
+    "tags": [
+      "Looter Shooter",
+      "MMO Lite",
+      "Sci-Fi",
+      "Multiplayer",
+      "Free"
+    ]
+  },
+  {
+    "nome": "Dragon Age: Inquisition",
+    "descricao": "RPG de grupo onde o jogador lidera a Inquisição para fechar uma fenda demoníaca. Combina combate tático com elementos de ação em tempo real.",
+    "ano": "2014",
+    "link": "https://www.ea.com/games/dragon-age/dragon-age-inquisition",
+    "Preco": "Pago",
+    "tags": [
+      "Party RPG",
+      "Fantasia",
+      "Single Player",
+      "Decisões Morais",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Star Wars Jedi: Fallen Order",
+    "descricao": "Um RPG de Ação e aventura focado em combate estilo Soulslike e exploração planetária, seguindo a jornada de um Padawan sobrevivente da Ordem 66.",
+    "ano": "2019",
+    "link": "https://www.ea.com/games/star-wars/star-wars-jedi-fallen-order",
+    "Preco": "Pago",
+    "tags": [
+      "Action Adventure",
+      "Soulslike Lite",
+      "Sci-Fi",
+      "Single Player",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Nier: Automata",
+    "descricao": "Um RPG de Ação focado em combate rápido e fluído, misturando elementos de hack and slash com jogos de tiro (shmup) e uma narrativa filosófica profunda.",
+    "ano": "2017",
+    "link": "https://www.niergame.com/us/home.html",
+    "Preco": "Pago",
+    "tags": [
+      "Hack and Slash",
+      "JRPG",
+      "Ação Rápida",
+      "Narrativa Complexa",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "God of War (2018)",
+    "descricao": "Um renascimento da série, focado na mitologia Nórdica. É um RPG de Ação Single Player com combate focado em machado, exploração e narrativa pai-e-filho.",
+    "ano": "2018",
+    "link": "https://www.playstation.com/pt-br/games/god-of-war/",
+    "Preco": "Pago",
+    "tags": [
+      "Action Adventure",
+      "Mitologia",
+      "Single Player",
+      "Combate Focado",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Cyberpunk 2077",
+    "descricao": "RPG de mundo aberto na primeira pessoa ambientado na distópica Night City. Focado em customização de implantes cibernéticos, tiroteios e decisões de história.",
+    "ano": "2020",
+    "link": "https://www.cyberpunk.net/br/pt-br/",
+    "Preco": "Pago",
+    "tags": [
+      "Mundo Aberto",
+      "Sci-Fi",
+      "Primeira Pessoa",
+      "Action RPG",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Horizon Zero Dawn",
+    "descricao": "Um RPG de Ação pós-apocalíptico onde a humanidade regrediu à tribos e máquinas animais vagam pelo mundo. Focado em caça furtiva e combate estratégico.",
+    "ano": "2017",
+    "link": "https://www.playstation.com/pt-br/games/horizon-zero-dawn/",
+    "Preco": "Pago",
+    "tags": [
+      "Mundo Aberto",
+      "Pós-Apocalíptico",
+      "Caça",
+      "Action RPG",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Torchlight II",
+    "descricao": "Um RPG de Ação isométrico que continua o estilo clássico de dungeon crawling. Conhecido por seu charme, classes variadas e modo cooperativo forte.",
+    "ano": "2012",
+    "link": "https://torchlight2.fandom.com/wiki/Torchlight_II_Wiki",
+    "Preco": "Pago",
+    "tags": [
+      "Hack and Slash",
+      "Isométrico",
+      "Cooperativo",
+      "Fantasia",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Borderlands 3",
+    "descricao": "Um 'Looter Shooter' de primeira pessoa com bilhões de armas geradas proceduralmente. O foco é em cooperação, humor ácido e construção de personagem.",
+    "ano": "2019",
+    "link": "https://borderlands.com/pt-BR/borderlands-3/",
+    "Preco": "Pago",
+    "tags": [
+      "Looter Shooter",
+      "Coop",
+      "Action RPG",
+      "Sci-Fi",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Kingdom Hearts III",
+    "descricao": "JRPG de ação que combina personagens da Disney e Pixar com os originais da Square Enix. Focado em combate mágico e rápido em tempo real.",
+    "ano": "2019",
+    "link": "https://www.square-enix-games.com/kh3/en-us/home/",
+    "Preco": "Pago",
+    "tags": [
+      "JRPG",
+      "Disney",
+      "Hack and Slash",
+      "Fantasia",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Scarlet Nexus",
+    "descricao": "Um ARPG japonês de estilo anime ambientado em um futuro onde poderes psicoquinéticos são usados para combater mutantes chamados 'Outros'.",
+    "ano": "2021",
+    "link": "https://www.bandainamcoent.com/games/scarlet-nexus",
+    "Preco": "Pago",
+    "tags": [
+      "Anime",
+      "JRPG",
+      "Action Combat",
+      "Sci-Fi",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Dauntless",
+    "descricao": "Um ARPG de caça cooperativa, onde esquadrões de Slayers caçam feras conhecidas como Behemoths para forjar novas armas e armaduras.",
+    "ano": "2019",
+    "link": "https://playdauntless.com/pt/",
+    "Preco": "Gratuito",
+    "tags": [
+      "Caçada",
+      "Cooperativo",
+      "Fantasia",
+      "Action RPG",
+      "Free"
+    ]
+  },
+  {
+    "nome": "Phantasy Star Online 2: New Genesis",
+    "descricao": "Um MMORPG de ação com combate baseado em habilidades e saltos aéreos, que reformulou o jogo base PSO2, focando em exploração de mundo aberto e gráficos melhorados.",
+    "ano": "2021",
+    "link": "https://pso2.com/",
+    "Preco": "Gratuito",
+    "tags": [
+      "MMORPG",
+      "Sci-Fi",
+      "Action Combat",
+      "Mundo Aberto",
+      "Free"
+    ]
+  },
+  {
+    "nome": "Dragon's Dogma: Dark Arisen",
+    "descricao": "Um RPG de Ação de fantasia que permite escalar monstros gigantes. Focado no sistema de 'Pawns' (companheiros) e combate tático em tempo real.",
+    "ano": "2012 (Original)",
+    "link": "https://www.dragonsdogma.com/10thanniversary/",
+    "Preco": "Pago",
+    "tags": [
+      "Fantasia",
+      "Action RPG",
+      "Single Player",
+      "Combate Tático",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Grim Dawn",
+    "descricao": "Um sucessor espiritual de Titan Quest, sendo um ARPG de fantasia sombria com profunda customização de classes duplas e foco em loot.",
+    "ano": "2016",
+    "link": "http://www.grimdawn.com/",
+    "Preco": "Pago",
+    "tags": [
+      "Hack and Slash",
+      "Isométrico",
+      "Loot Focado",
+      "Fantasia Sombria",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Vindictus",
+    "descricao": "Um MMORPG de ação com instâncias, famoso por seu sistema de combate físico e complexo, exigindo alta habilidade na esquiva e parry.",
+    "ano": "2010",
+    "link": "https://vindictus.nexon.net/",
+    "Preco": "Gratuito",
+    "tags": [
+      "MMORPG",
+      "Action Combat",
+      "Hack and Slash",
+      "Instanciado",
+      "Free"
+    ]
+  },
+  {
+    "nome": "The Elder Scrolls Online",
+    "descricao": "Um MMORPG de ação ambientado no universo de Tamriel, com foco em narrativa rica e combate em tempo real.",
+    "ano": "2014",
+    "link": "https://www.elderscrollsonline.com",
+    "Preco": "Pago",
+    "tags": [
+      "MMORPG",
+      "Fantasia",
+      "Combate em Tempo Real",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Blade & Soul",
+    "descricao": "Um MMORPG de artes marciais com um sistema de combate rápido e dinâmico, focado em combos e defesas.",
+    "ano": "2012",
+    "link": "https://www.bladeandsoul.com",
+    "Preco": "Gratuito",
+    "tags": [
+      "MMORPG",
+      "Artes Marciais",
+      "Fantasia Asiática",
+      "Free"
+    ]
+  },
+  {
+    "nome": "Darksiders II",
+    "descricao": "Siga Morte, um dos Quatro Cavaleiros do Apocalipse, em uma jornada épica com elementos de RPG, exploração e hack and slash.",
+    "ano": "2012",
+    "link": "https://darksiders.com/games/darksiders-ii/",
+    "Preco": "Pago",
+    "tags": [
+      "Hack and Slash",
+      "Ação",
+      "Exploração",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Middle-earth: Shadow of Mordor",
+    "descricao": "Um RPG de ação em mundo aberto ambientado no universo de O Senhor dos Anéis, famoso pelo sistema Nemesis que cria inimigos únicos.",
+    "ano": "2014",
+    "link": "https://www.shadowofmordor.com",
+    "Preco": "Pago",
+    "tags": [
+      "Mundo Aberto",
+      "Fantasia",
+      "Sistema Nemesis",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Assassin's Creed Valhalla",
+    "descricao": "RPG de ação focado em uma saga viking na Inglaterra, com ênfase em exploração, saque e combate brutal.",
+    "ano": "2020",
+    "link": "https://www.ubisoft.com/en-us/game/assassins-creed/valhalla",
+    "Preco": "Pago",
+    "tags": [
+      "Vikingos",
+      "Mundo Aberto",
+      "História",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "The Ascent",
+    "descricao": "Um RPG de ação isométrico cooperativo cyberpunk com tiroteios intensos e personalização profunda de habilidades.",
+    "ano": "2021",
+    "link": "https://www.curvegames.com/the-ascent/",
+    "Preco": "Pago",
+    "tags": [
+      "Cyberpunk",
+      "Isometrico",
+      "Looter Shooter",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Biomutant",
+    "descricao": "Um RPG de ação pós-apocalíptico com combate baseado em kung-fu e mutações genéticas para personalizar o personagem.",
+    "ano": "2021",
+    "link": "https://biomutant.com",
+    "Preco": "Pago",
+    "tags": [
+      "Mundo Aberto",
+      "Pós-apocalíptico",
+      "Kung Fu",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Zenless Zone Zero",
+    "descricao": "Um RPG de ação urbana altamente estilizado e focado em combate rápido, desenvolvido pela HoYoverse.",
+    "ano": "2024",
+    "link": "https://zzz.honkaiimpact3.com/",
+    "Preco": "Gratuito",
+    "tags": [
+      "Gacha",
+      "Urbano",
+      "Combate Rápido",
+      "Free"
+    ]
+  },
+  {
+    "nome": "Wo Long: Fallen Dynasty",
+    "descricao": "Um RPG de ação intenso dos criadores de Nioh, focado na dinastia Han na China e combate baseado em postura e desvios.",
+    "ano": "2023",
+    "link": "https://www.teamninja-studio.com/wolong/",
+    "Preco": "Pago",
+    "tags": [
+      "Soulslike",
+      "Combate Tático",
+      "Histórico",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Tales of Arise",
+    "descricao": "Um JRPG com um sistema de combate de ação totalmente renovado, focado em artefatos, habilidades combinadas e narrativas emocionais.",
+    "ano": "2021",
+    "link": "https://toarise.tales-ch.jp/",
+    "Preco": "Pago",
+    "tags": [
+      "JRPG",
+      "Fantasia",
+      "Combate Dinâmico",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "V Rising",
+    "descricao": "Um RPG de sobrevivência e ação em mundo aberto onde os jogadores assumem o papel de um vampiro recém-despertado.",
+    "ano": "2022",
+    "link": "https://www.stunlockstudios.se/games/v-rising/",
+    "Preco": "Pago",
+    "tags": [
+      "Sobrevivência",
+      "Vampiros",
+      "Mundo Aberto",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Kena: Bridge of Spirits",
+    "descricao": "Uma aventura com fortes elementos de RPG de ação, focada em combate fluido e resolução de puzzles ambientais.",
+    "ano": "2021",
+    "link": "https://www.emberlab.com/kena",
+    "Preco": "Pago",
+    "tags": [
+      "Aventura",
+      "Indie",
+      "Terceira Pessoa",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Hades",
+    "descricao": "Um roguelike de ação rápida com uma narrativa profunda, onde o jogador tenta escapar do submundo grego.",
+    "ano": "2020",
+    "link": "https://www.supergiantgames.com/games/hades/",
+    "Preco": "Pago",
+    "tags": [
+      "Roguelike",
+      "Mitologia Grega",
+      "Isometrico",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Bayonetta 3",
+    "descricao": "Um hack and slash focado em combate extravagante, transformações demoníacas e placares de pontuação (combate puro de ação RPG).",
+    "ano": "2022",
+    "link": "https://www.nintendo.com/store/products/bayonetta-3-switch/",
+    "Preco": "Pago",
+    "tags": [
+      "Hack and Slash",
+      "Ação Pura",
+      "Combate Extravagante",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Code Vein",
+    "descricao": "Um RPG de ação estilo 'soulslike' com estética anime, onde vampiros lutam pela sobrevivência em um mundo em ruínas.",
+    "ano": "2019",
+    "link": "https://www.bandainamcoent.com/games/code-vein",
+    "Preco": "Pago",
+    "tags": [
+      "Soulslike",
+      "Anime",
+      "Combate Difícil",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Remnant: From the Ashes",
+    "descricao": "Um RPG de ação de tiro em terceira pessoa, focado em combate com armas e inspiração em jogos soulslike, com geração procedural de mapas.",
+    "ano": "2019",
+    "link": "https://www.remnantgame.com",
+    "Preco": "Pago",
+    "tags": [
+      "Looter Shooter",
+      "Coop",
+      "Geração Procedural",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Wild Hearts",
+    "descricao": "Um RPG de caça de monstros onde os jogadores usam o poder da tecnologia Karakuri para enfrentar feras gigantes (inspirado em Monster Hunter).",
+    "ano": "2023",
+    "link": "https://www.ea.com/games/wild-hearts",
+    "Preco": "Pago",
+    "tags": [
+      "Caça de Monstros",
+      "Multiplayer",
+      "Ação Rápida",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Sekiro: Shadows Die Twice",
+    "descricao": "Um RPG de ação da FromSoftware que foca em um combate intenso de parry e postura no Japão feudal (mistura de Ação e RPG).",
+    "ano": "2019",
+    "link": "https://www.sekirothegame.com",
+    "Preco": "Pago",
+    "tags": [
+      "Soulslike",
+      "Japão Feudal",
+      "Combate Tático",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Nioh 2",
+    "descricao": "Sequência de RPG de ação 'soulslike' que se passa no Japão Sengoku, conhecido por sua profundidade de combate e gestão de Ki.",
+    "ano": "2020",
+    "link": "https://www.teamninja-studio.com/nioh2/",
+    "Preco": "Pago",
+    "tags": [
+      "Samurai",
+      "Combate Intenso",
+      "Soulslike",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Outriders",
+    "descricao": "Um RPG de ação de tiro focado em loot e habilidades de classe, jogável em cooperação para até três pessoas.",
+    "ano": "2021",
+    "link": "https://outriders.square-enix-games.com",
+    "Preco": "Pago",
+    "tags": [
+      "Looter Shooter",
+      "Coop",
+      "Scifi",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Tower of Fantasy",
+    "descricao": "Um MMORPG de mundo aberto com gacha e combate de ação focado na troca de armas e movimentos rápidos.",
+    "ano": "2021",
+    "link": "https://www.toweroffantasy-global.com",
+    "Preco": "Gratuito",
+    "tags": [
+      "MMORPG",
+      "Mundo Aberto",
+      "Gacha",
+      "Free"
+    ]
+  },
+  {
+    "nome": "Middle-earth: Shadow of War",
+    "descricao": "A sequência de Shadow of Mordor, expandindo o sistema Nemesis e adicionando um complexo sistema de fortalezas e exércitos orcs.",
+    "ano": "2017",
+    "link": "https://www.shadowofwar.com",
+    "Preco": "Pago",
+    "tags": [
+      "Mundo Aberto",
+      "Fantasia",
+      "Combate Massivo",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "The Incredible Adventures of Van Helsing",
+    "descricao": "Um RPG de ação isométrico gótico, onde você caça monstros com o filho do lendário Van Helsing.",
+    "ano": "2013",
+    "link": "https://neocoregames.com/en/games/the-incredible-adventures-of-van-helsing",
+    "Preco": "Pago",
+    "tags": [
+      "Isometrico",
+      "Looter",
+      "Gótico",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Chronicon",
+    "descricao": "Um RPG de ação pixelizado com foco em customização profunda de classes e milhares de itens lendários para colecionar.",
+    "ano": "2021",
+    "link": "https://chronicon.fandom.com/wiki/Chronicon_Wiki",
+    "Preco": "Pago",
+    "tags": [
+      "Looter",
+      "Pixel Art",
+      "Isometrico",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Honkai Impact 3rd",
+    "descricao": "Um RPG de ação hack and slash com foco em combos aéreos e troca de personagens em tempo real, desenvolvido pela HoYoverse.",
+    "ano": "2016",
+    "link": "https://honkaiimpact3.hoyoverse.com",
+    "Preco": "Gratuito",
+    "tags": [
+      "Hack and Slash",
+      "Anime",
+      "Gacha",
+      "Free"
+    ]
+  },
+  {
+    "nome": "TERA (The Exiled Realm of Arborea)",
+    "descricao": "Um MMORPG de fantasia conhecido pelo seu sistema de combate Non-Targeting, exigindo habilidade e posicionamento.",
+    "ano": "2011",
+    "link": "https://store.steampowered.com/app/212740/TERA/",
+    "Preco": "Gratuito",
+    "tags": [
+      "MMORPG",
+      "Fantasia",
+      "Combate de Ação",
+      "Free"
+    ]
+  },
+  {
+    "nome": "Elex II",
+    "descricao": "Sequência de um RPG de ação de mundo aberto pós-apocalíptico e de fantasia científica, onde as escolhas do jogador afetam o destino do planeta.",
+    "ano": "2022",
+    "link": "https://www.elex2.com/",
+    "Preco": "R$ 200,00",
+    "tags": [
+      "Mundo Aberto",
+      "Sci-Fi",
+      "Pós-Apocalíptico",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Neverwinter",
+    "descricao": "Um MMORPG gratuito baseado nas regras de Dungeons & Dragons, focando em histórias ricas e combate em tempo real.",
+    "ano": "2013",
+    "link": "https://www.arcgames.com/en/games/neverwinter",
+    "Preco": "Gratuito",
+    "tags": [
+      "MMORPG",
+      "Dungeons & Dragons",
+      "Fantasia",
+      "Free",
+      "PvE"
+    ]
+  },
+  {
+    "nome": "Kingdoms of Amalur: Re-Reckoning",
+    "descricao": "Um remaster de um RPG de ação de mundo aberto aclamado por seu combate fluido e sistema de destino que permite flexibilidade de classes.",
+    "ano": "2020",
+    "link": "https://www.thqnordic.com/games/kingdoms-of-amalur-rereckoning",
+    "Preco": "Pago",
+    "tags": [
+      "RPG Ocidental",
+      "Mundo Aberto",
+      "Remaster",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Wolcen: Lords of Mayhem",
+    "descricao": "Um ARPG de hack and slash com progressão de classe flexível e foco em visuais impressionantes e combate dinâmico.",
+    "ano": "2020",
+    "link": "https://wolcengame.com/",
+    "Preco": "Pago",
+    "tags": [
+      "Hack and Slash",
+      "Action RPG",
+      "PvE",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Hyper Light Drifter",
+    "descricao": "Um RPG de ação 2D isométrico com estilo pixel art vibrante, focado em exploração e combate rápido e desafiador.",
+    "ano": "2016",
+    "link": "https://www.hyperlightdrifter.com/",
+    "Preco": "Pago",
+    "tags": [
+      "Indie",
+      "Pixel Art",
+      "Ação Rápida",
+      "Single Player",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Ruined King: A League of Legends Story",
+    "descricao": "Um RPG de turnos com forte foco em narrativa e ação, ambientado nos locais de Bilgewater e Ilhas das Sombras do universo LoL.",
+    "ano": "2021",
+    "link": "https://ruinedking.com/",
+    "Preco": "Pago",
+    "tags": [
+      "RPG de Ação",
+      "Fantasia",
+      "Universo LoL",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Blue Protocol",
+    "descricao": "Um MMORPG de ação em estilo anime, destacando-se pelos seus gráficos cel-shading de alta qualidade e combate envolvente.",
+    "ano": "2023",
+    "link": "https://www.blue-protocol.com/",
+    "Preco": "Gratuito",
+    "tags": [
+      "MMORPG",
+      "Anime",
+      "Combate de Ação",
+      "Free"
+    ]
+  },
+  {
+    "nome": "Mount & Blade II: Bannerlord",
+    "descricao": "Um RPG de ação medieval de mundo aberto focado em combate de grande escala, gerenciamento de exércitos e política de reino.",
+    "ano": "2020",
+    "link": "https://www.taleworlds.com/en/games/bannerlord",
+    "Preco": "Pago",
+    "tags": [
+      "Mundo Aberto",
+      "Combate Medieval",
+      "Sandbox",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "GreedFall",
+    "descricao": "Um RPG de ação com escolhas morais complexas e combate focado em diplomacia e exploração em um cenário de fantasia colonial.",
+    "ano": "2019",
+    "link": "https://greedfall.com/",
+    "Preco": "Pago",
+    "tags": [
+      "RPG Ocidental",
+      "Fantasia",
+      "História",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "CrossCode",
+    "descricao": "Um ARPG 2D inspirado em JRPGs clássicos, combinando quebra-cabeças e combate rápido em um cenário futurista de realidade virtual.",
+    "ano": "2018",
+    "link": "https://www.cross-code.com/",
+    "Preco": "Pago",
+    "tags": [
+      "JRPG",
+      "Retro",
+      "Quebra-Cabeças",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Mabinogi",
+    "descricao": "Um MMORPG com um estilo de vida fantástico e um sistema de habilidades único onde a idade e as atividades do personagem influenciam a progressão.",
+    "ano": "2004",
+    "link": "https://mabinogi.nexon.net/",
+    "Preco": "Gratuito",
+    "tags": [
+      "MMORPG",
+      "Fantasia",
+      "Vida Virtual",
+      "Free"
+    ]
+  },
+  {
+    "nome": "New World",
+    "descricao": "Um MMORPG da Amazon Games focado na colonização da América no século XVII, com combate ARPG focado em esquivas e bloqueios.",
+    "ano": "2021",
+    "link": "https://www.newworld.com/",
+    "Preco": "Pago",
+    "tags": [
+      "MMORPG",
+      "Sandbox",
+      "Fantasia Histórica",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Dungeons & Dragons Online (DDO)",
+    "descricao": "Um MMORPG de ação que leva os jogadores aos mundos de Eberron e Forgotten Realms, usando combate ARPG baseado em dados.",
+    "ano": "2006",
+    "link": "https://www.ddo.com/",
+    "Preco": "Gratuito",
+    "tags": [
+      "MMORPG",
+      "D&D",
+      "Fantasia",
+      "Free",
+      "Dungeon Crawler"
+    ]
+  },
+  {
+    "nome": "Titan Quest Anniversary Edition",
+    "descricao": "Uma reedição do clássico ARPG de hack and slash ambientado na mitologia grega, egípcia e asiática.",
+    "ano": "2016",
+    "link": "https://store.steampowered.com/app/475150/Titan_Quest_Anniversary_Edition/",
+    "Preco": "Pago",
+    "tags": [
+      "Hack and Slash",
+      "Mitologia",
+      "Clássico",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Lineage 2 Revolution",
+    "descricao": "Um MMORPG de ação massivo e de alta fidelidade gráfica otimizado para mobile, mas disponível em PC, com foco em grandes guerras de cerco.",
+    "ano": "2016",
+    "link": "https://l2.netmarble.com/",
+    "Preco": "Gratuito",
+    "tags": [
+      "Mobile",
+      "MMORPG",
+      "Guerra de Cerco",
+      "Free"
+    ]
+  },
+  {
+    "nome": "Fable Anniversary",
+    "descricao": "Um remaster do RPG de ação clássico, onde as escolhas éticas do jogador mudam a aparência e a reputação do herói.",
+    "ano": "2014",
+    "link": "https://store.steampowered.com/app/288470/Fable_Anniversary/",
+    "Preco": "Pago",
+    "tags": [
+      "Fantasia",
+      "Single Player",
+      "Remaster",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Marvel Future Revolution",
+    "descricao": "Um RPG de ação de mundo aberto para dispositivos móveis, permitindo aos jogadores explorar vários mundos do multiverso Marvel.",
+    "ano": "2021",
+    "link": "https://www.marvelfuturerevolution.com/",
+    "Preco": "Gratuito",
+    "tags": [
+      "Mobile",
+      "Super-Heróis",
+      "Mundo Aberto",
+      "Free"
+    ]
+  },
+  {
+    "nome": "SoulWorker",
+    "descricao": "Um MMORPG de ação em estilo anime com um sistema de combate baseado em combos rápidos e uma estética pós-apocalíptica.",
+    "ano": "2017",
+    "link": "https://soulworker.gameforge.com/",
+    "Preco": "Gratuito",
+    "tags": [
+      "Anime",
+      "MMORPG",
+      "Combate Rápido",
+      "Free"
+    ]
+  },
+  {
+    "nome": "The Elder Scrolls V: Skyrim Special Edition",
+    "descricao": "Uma reedição com gráficos aprimorados do épico RPG de ação e fantasia de mundo aberto, conhecido por sua vasta liberdade de exploração.",
+    "ano": "2016",
+    "link": "https://elderscrolls.bethesda.net/pt/skyrim",
+    "Preco": "Pago",
+    "tags": [
+      "Mundo Aberto",
+      "Fantasia",
+      "Single Player",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Hyperdimension Neptunia ReVerse",
+    "descricao": "Um JRPG de ação que se passa em um mundo onde as CPUs (Consoles) lutam pelo poder, com combate rápido e personagens cômicos.",
+    "ano": "2020",
+    "link": "https://ideafactoryintl.com/neptunia-reverse/",
+    "Preco": "Pago",
+    "tags": [
+      "JRPG",
+      "Anime",
+      "Comédia",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Torchlight III",
+    "descricao": "O terceiro capítulo da série ARPG de hack and slash, retornando ao combate clássico de masmorras com a adição de fortes personalizáveis.",
+    "ano": "2020",
+    "link": "https://www.torchlight3.com/",
+    "Preco": "Pago",
+    "tags": [
+      "Hack and Slash",
+      "Dungeon Crawler",
+      "Cooperativo",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Undecember",
+    "descricao": "Um ARPG gótico de hack and slash que enfatiza a construção ilimitada de personagens através de um sistema complexo de runas e habilidades.",
+    "ano": "2022",
+    "link": "https://ud.floor.line.games/us/main",
+    "Preco": "Gratuito",
+    "tags": [
+      "Hack and Slash",
+      "Gótico",
+      "MMOARPG",
+      "Free"
+    ]
+  },
+  {
+    "nome": "Zenith: The Last City",
+    "descricao": "Um MMORPG de ação de realidade virtual (VR) com foco em combate baseado em gestos e exploração vertical.",
+    "ano": "2022",
+    "link": "https://zenithmmo.com/",
+    "Preco": "Pago",
+    "tags": [
+      "VR",
+      "MMORPG",
+      "Ficção Científica",
+      "Pago"
+    ]
+  },
+  {
+    "nome": "Vindictus (EU/NA Service)",
+    "descricao": "Um MMORPG de ação baseado em sessões com combate físico e altamente responsivo, focado em chefes de masmorra desafiadores.",
+    "ano": "2010",
+    "link": "https://vindictus.nexon.net/",
+    "Preco": "Gratuito",
+    "tags": [
+      "MMOARPG",
+      "Combate Físico",
+      "Dungeon Crawler",
+      "Free"
+    ]
+  }
+]
