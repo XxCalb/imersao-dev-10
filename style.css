@@ -99,7 +99,7 @@ main {
 }
 
 main{
-    background: url(imagens/Fundo_site.jpg);
+    background: url(Fundo_site.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
@@ -306,4 +306,5 @@ article {
     button {
         margin-top: 1rem;
     }
+
 }
